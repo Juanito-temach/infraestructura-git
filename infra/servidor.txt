@@ -2,3 +2,6 @@ Servidor Web
 RAM: 4GB
 CPU: 2 cores
 Sistema: Linuxs
+Servicios:
+-Zabbix
+-Base de datos
