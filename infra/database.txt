@@ -1,0 +1,4 @@
+Base de datos
+Motor: MySQL
+RAM: 2GB
+Puerto: 3306
