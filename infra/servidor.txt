@@ -1,0 +1,4 @@
+Servidor Web
+RAM: 4GB
+CPU: 2 cores
+Sistema: Linux
