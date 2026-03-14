@@ -5,3 +5,4 @@ Sistema: Linuxs
 Servicios:
 -Zabbix
 -Base de datos
+Ip: 192.168.1.1
