@@ -1,4 +1,14 @@
-Base de datos
-Motor: MySQL
-RAM: 2GB
-Puerto: 3306
+Configuración del Servidor de Base de Datos
+-------------------------------------------
+Motor de Base de Datos: PostgreSQL
+Versión: 15.4
+Puerto de conexión: 5432
+Codificación: UTF-8
+
+Parámetros de Rendimiento:
+- Conexiones máximas (max_connections): 200
+- Memoria compartida (shared_buffers): 4GB
+
+Política de Respaldos:
+- Respaldo completo: Cada domingo a las 02:00 AM
+- Respaldos incrementales: Diario a las 03:00 AM
