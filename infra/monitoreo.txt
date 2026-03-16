@@ -1,1 +1,6 @@
-herramientas para monitoreo
+Herramientas para monitoreo
+
+
+Herramienta: Zabbix
+Metricas de rendimiento: CPU(>80%), RAM(>90%) y almacenamiento
+Alertas: Notificaciones criticas via Email/Telegram
